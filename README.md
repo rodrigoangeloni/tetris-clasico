@@ -1,4 +1,5 @@
 # 🎮 Tetris Clásico
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 
 Un juego completo de Tetris implementado con HTML5 Canvas y JavaScript vanilla, incluyendo todas las mecánicas clásicas del juego original.
 
